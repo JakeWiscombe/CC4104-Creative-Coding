@@ -4,12 +4,12 @@ Welcome to my submission for the Creative Coding Portfolio. Below are links to e
 
 ### Experiment #1 - An alternative visual way to represent a realtime clock
 
-Click [here](Experiment-One.md) to view the experiment.
+Click [here](ExperimentOne.md) to view the experiment.
 
 ### Experiment #2 - A mouse-driven painting tool with 4 different 'brush' tools 
 
-Click [here](Experiment-Two.md) to view the experiment.
+Click [here](ExperimentTwo.md) to view the experiment.
 
 ### Experiment #3 - An autonomous pattern generator that will create a rich visual effect that is different each time it is run
 
-Click [here](Experiment-Three.md) to view the experiment.
+Click [here](ExperimentThree.md) to view the experiment.
