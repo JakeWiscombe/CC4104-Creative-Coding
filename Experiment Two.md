@@ -1,1 +1,1 @@
-# Experiment #2 - A mouse-driven painting tool with 4 different 'brush' tools 
+## Experiment #2 - A mouse-driven painting tool with 4 different 'brush' tools 
