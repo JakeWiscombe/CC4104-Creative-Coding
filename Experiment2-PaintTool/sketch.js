@@ -146,9 +146,7 @@ function brush3() {
 function brush4() {
   strokeWeight(5); // Not as thick as others
   let amplitude = 10; // Sets height of lines
-  let frequency = 5; // Sets how fast the lines rotate
+  let frequency = 25; // Sets how fast the lines rotate
   let yOffset = sin(frameCount * frequency) * amplitude; // Calculate vertical offset based on frame count using sin wave
   line(pmouseX, pmouseY + yOffset, mouseX, mouseY - yOffset); //
 }
-
-
